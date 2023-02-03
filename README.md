@@ -1,7 +1,7 @@
 # idiaz0.github.io.Bus-Traker
 <h1>This app was develop using javascript, html and css.</h1>
 </br>
-  
+<img src="img/busTracker.PNG"></img> 
 <p>The code can be used for apps oriented for tracking bus, shows possible routes and so on. The most importat thing here is the questions derivated to this. 
 Is it possible to have the shortes route? If so, Wich one is.
 Will the solution be constant? or Is this one be variant on time?
