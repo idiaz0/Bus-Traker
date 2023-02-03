@@ -23,7 +23,7 @@ let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/streets-v11',
   center: [-88.98151172199582, 40.54464467364732],
-  zoom: 24,
+  zoom: 14,
 });
 
 // TODO: add a marker to the map
